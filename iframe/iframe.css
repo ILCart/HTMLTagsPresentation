@@ -1,0 +1,9 @@
+iframe {
+    margin: auto;
+    width: 50%;
+    display: flex;
+}
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
